@@ -1,1 +1,12 @@
+# DistilBERT model
+models/distilbert_fake_review/
 
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Optional
+.env
