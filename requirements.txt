@@ -1,11 +1,4 @@
-pandas
-numpy
-scikit-learn
-xgboost
-nltk
-textblob
 streamlit
-joblib
-transformers
 torch
-datasets
+transformers
+huggingface_hub
