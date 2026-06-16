@@ -13,11 +13,22 @@ The system includes a full ML pipeline — from text preprocessing and feature e
 
 👉 https://fake-review-distilbert-app-123-axa4e7awadfsfqct.centralindia-01.azurewebsites.net/
 
+The model is dynamically loaded in the Streamlit application during inference, ensuring lightweight deployment on Azure.
+
 ---
 
 ## 🤗 Hugging Face Model Repository
 
 👉 https://huggingface.co/Smriti05wy/fake-review-distilbert/tree/main
+
+The trained DistilBERT model (~257MB) is hosted on Hugging Face instead of GitHub due to repository size limitations.
+
+GitHub is not suitable for storing large ML models, so the model is versioned and deployed using Hugging Face Model Hub, which provides:
+
+- Efficient model storage and retrieval
+- Public model access via API
+- Better integration with Transformers library
+- Scalable deployment for large NLP models
 
 ---
 
