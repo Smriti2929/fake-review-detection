@@ -60,6 +60,8 @@ GitHub is not suitable for storing large ML models, so the model is versioned an
 
 <img width="940" height="321" alt="image" src="https://github.com/user-attachments/assets/4f118b00-291e-4c19-bf1e-643fb508e561" />
 
+<img width="940" height="203" alt="image" src="https://github.com/user-attachments/assets/be64461a-67bf-420e-8bcf-3cd7ba4dcde2" />
+
 
 ---
 
